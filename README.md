@@ -1,5 +1,5 @@
-# The Open Source Stoner's Guide
-The Open Source Stoner's Guide sole mission, is to easily explain all things cannabis.
+# [The Open Source Stoner's Guide](https://choofedcoder.github.io/stoners-guide/)
+[The Open Source Stoner's Guide](https://choofedcoder.github.io/stoners-guide/) sole mission, is to easily explain all things cannabis.
 
 ## Project status
 🚧
