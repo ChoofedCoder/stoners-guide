@@ -5,7 +5,7 @@ The Open Source Stoner's Guide sole mission, is to easily explain all things can
 🚧
 
 ## License
-![Public Domain Mark](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg)
+[![Public Domain (CC0 1.0)](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contributing
 Issues & pull requests.
